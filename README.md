@@ -1,2 +1,2 @@
 # The-next-billion-dollar-company
-This is like an 11 line program, why do you need a readme?
+Wanted to familiarise myself with regex and Json syntax, so this is a funny project that helped me do that.
